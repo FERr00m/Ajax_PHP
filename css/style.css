@@ -1,0 +1,15 @@
+body {
+  font-size: 25px;
+  margin: 15px;
+}
+
+select {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.card {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 5px;
+}
